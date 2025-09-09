@@ -1,5 +1,5 @@
 # LASD (Laboratorio di Algoritmi e Strutture Dati)
-**I worked on this projects with [@Akmadan23](https://github.com/Akmadan23)**
+**I worked on this assignements with [@Akmadan23](https://github.com/Akmadan23)**
 
 Collection of assignements for "Laboratorio di Algoritmi e Strutture Dati", a subject for the CS Bachelor Degree at UniPR (University of Parma).
 Each file is divided according to the topic of the course, in particular:
