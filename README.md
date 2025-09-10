@@ -17,7 +17,7 @@ Program that generates a binary tree, and tests on it the following functions:
   5) Lowest Common Ancestor: given two different values of the tree, return the value of the lowest node that contains both in his subtree
 
 ## CONSEGNA N.3 - CYCLIC GRAPH
-Program that creates a random cyclic graph, with the following instruction:
+Program that creates a random cyclic graph, with the following functions:
   1) Visit the whole graph, even disconnected oarts
   2) Calculate the lenght of the longest cycle, and return its nodes
 
