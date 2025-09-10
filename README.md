@@ -22,9 +22,9 @@ Program that creates a random cyclic graph, with the following functions:
   2) Calculate the lenght of the longest cycle, and return its nodes
 
 ## CONSEGNA N.4 - SHORTEST PATH
-Adaptation of the code to find the shortest path, modifying the extraction of the minimum node using the heap, 
-guaranteeing the log(n) complexity and to correctly get back the heap's array index starting from the node code.
-Implementation of  Bellman-Ford's algorithm, using the shortest path code arleady written,
+Adaptation of the shortest path algorithm source code, modifying the extraction of the minimum node using the heap, 
+guaranteeing the log(n) complexity and to correctly get back the heap's array index starting from the node source code.
+Implementation of  Bellman-Ford's algorithm, using the shortest path code already written,
 and testing it with a fully negative graph and a graph with only one negative edge
 
 ## CONSEGNA N.5 - KRUSKAL'S ALGORITHM
